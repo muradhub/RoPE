@@ -3,7 +3,8 @@ Rotationary Positional Embedding
 
 
 
-Usage:
+Usage ----
+
 batch_size = 32
 seq_length = 100
 d_model = 512
